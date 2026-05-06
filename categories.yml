@@ -1,0 +1,185 @@
+AI Agent 与 LLM 应用:
+  - agent
+  - agents
+  - llm
+  - chatgpt
+  - openai
+  - anthropic
+  - claude
+  - gemini
+  - rag
+  - prompt
+  - langchain
+  - llamaindex
+  - mcp
+  - autogen
+  - ai-agent
+  - multi-agent
+  - memory
+  - copilot
+  - codex
+  - chatbot
+
+LLM 推理 / 部署 / 模型运维:
+  - vllm
+  - llama.cpp
+  - llamacpp
+  - ollama
+  - inference
+  - serving
+  - quantization
+  - gguf
+  - transformers
+  - diffusers
+  - tensorrt
+  - triton
+  - model-serving
+  - fine-tuning
+  - lora
+  - qlora
+  - mlops
+
+AI 研究 / 机器学习框架:
+  - machine-learning
+  - deep-learning
+  - pytorch
+  - tensorflow
+  - jax
+  - neural
+  - reinforcement-learning
+  - rlhf
+  - dataset
+  - benchmark
+  - evaluation
+  - computer-vision
+  - nlp
+
+开发工具 / CLI / 效率工具:
+  - cli
+  - terminal
+  - shell
+  - tui
+  - developer-tools
+  - devtools
+  - productivity
+  - automation
+  - workflow
+  - code
+  - coding
+  - vscode
+  - editor
+  - git
+  - github
+  - debug
+  - account-manager
+  - cost-tracking
+
+Web / 全栈 / UI:
+  - react
+  - vue
+  - nextjs
+  - frontend
+  - web
+  - css
+  - tailwind
+  - ui
+  - component
+  - dashboard
+  - html
+  - javascript
+  - typescript
+  - nodejs
+  - fastapi
+  - api
+
+基础设施 / DevOps / 云服务:
+  - docker
+  - kubernetes
+  - k8s
+  - terraform
+  - ansible
+  - nginx
+  - proxy
+  - cloud
+  - devops
+  - monitoring
+  - observability
+  - server
+  - self-hosted
+  - homelab
+  - network
+  - vpn
+  - xray
+  - v2ray
+  - shadowrocket
+
+数据 / 搜索 / 数据库:
+  - database
+  - postgres
+  - sqlite
+  - mysql
+  - redis
+  - vector-database
+  - search
+  - elasticsearch
+  - analytics
+  - data
+  - etl
+  - warehouse
+  - crawler
+  - scraper
+
+安全 / 隐私 / 认证:
+  - security
+  - privacy
+  - auth
+  - oauth
+  - cryptography
+  - encryption
+  - pentest
+  - vulnerability
+  - secret
+  - sso
+
+媒体 / 创意 / 设计:
+  - image
+  - video
+  - audio
+  - music
+  - tts
+  - stt
+  - speech
+  - design
+  - svg
+  - canvas
+  - animation
+  - generative-art
+  - stable-diffusion
+  - comfyui
+  - voice-ai
+  - voice-clone
+
+移动端 / Apple / 家庭与 IoT:
+  - ios
+  - android
+  - mobile
+  - swift
+  - shortcut
+  - home-assistant
+  - iot
+  - health
+  - apple
+  - macos
+
+学习资源 / Awesome / 参考资料:
+  - awesome
+  - awesome-list
+  - book
+  - books
+  - course
+  - tutorial
+  - guide
+  - roadmap
+  - reference
+  - papers
+  - examples

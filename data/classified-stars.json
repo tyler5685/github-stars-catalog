@@ -1,0 +1,793 @@
+{
+  "user": "tyler5685",
+  "count": 32,
+  "summary": {
+    "AI Agent 与 LLM 应用": 12,
+    "开发工具 / CLI / 效率工具": 8,
+    "Web / 全栈 / UI": 2,
+    "基础设施 / DevOps / 云服务": 3,
+    "媒体 / 创意 / 设计": 2,
+    "移动端 / Apple / 家庭与 IoT": 1,
+    "学习资源 / Awesome / 参考资料": 4
+  },
+  "categories": {
+    "AI Agent 与 LLM 应用": [
+      {
+        "full_name": "anthropics/skills",
+        "html_url": "https://github.com/anthropics/skills",
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "topics": [
+          "agent-skills"
+        ],
+        "stargazers_count": 129025,
+        "forks_count": 15194,
+        "archived": false,
+        "updated_at": "2026-05-06T17:00:53Z",
+        "owner": {
+          "login": "anthropics",
+          "type": "Organization"
+        }
+      },
+      {
+        "full_name": "browser-use/browser-use",
+        "html_url": "https://github.com/browser-use/browser-use",
+        "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+        "language": "Python",
+        "topics": [
+          "ai-agents",
+          "ai-tools",
+          "browser-automation",
+          "browser-use",
+          "llm",
+          "playwright",
+          "python"
+        ],
+        "stargazers_count": 92477,
+        "forks_count": 10486,
+        "archived": false,
+        "updated_at": "2026-05-06T16:53:41Z",
+        "owner": {
+          "login": "browser-use",
+          "type": "Organization"
+        }
+      },
+      {
+        "full_name": "sansan0/TrendRadar",
+        "html_url": "https://github.com/sansan0/TrendRadar",
+        "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "bark",
+          "data-analysis",
+          "docker",
+          "hot-news",
+          "llm",
+          "mail",
+          "mcp",
+          "mcp-server",
+          "news",
+          "ntfy",
+          "python",
+          "rss",
+          "trending-topics",
+          "wechat",
+          "wework"
+        ],
+        "stargazers_count": 56801,
+        "forks_count": 24119,
+        "archived": false,
+        "updated_at": "2026-05-06T16:39:18Z",
+        "owner": {
+          "login": "sansan0",
+          "type": "User"
+        }
+      },
+      {
+        "full_name": "mem0ai/mem0",
+        "html_url": "https://github.com/mem0ai/mem0",
+        "description": "Universal memory layer for AI Agents",
+        "language": "Python",
+        "topics": [
+          "agents",
+          "ai",
+          "ai-agents",
+          "application",
+          "chatbots",
+          "chatgpt",
+          "genai",
+          "llm",
+          "long-term-memory",
+          "memory",
+          "memory-management",
+          "python",
+          "rag",
+          "state-management"
+        ],
+        "stargazers_count": 54921,
+        "forks_count": 6217,
+        "archived": false,
+        "updated_at": "2026-05-06T16:56:15Z",
+        "owner": {
+          "login": "mem0ai",
+          "type": "Organization"
+        }
+      },
+      {
+        "full_name": "QuantumNous/new-api",
+        "html_url": "https://github.com/QuantumNous/new-api",
+        "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥",
+        "language": "Go",
+        "topics": [
+          "ai-gateway",
+          "claude",
+          "deepseek",
+          "gemini",
+          "newapi",
+          "openai",
+          "rerank"
+        ],
+        "stargazers_count": 31050,
+        "forks_count": 6661,
+        "archived": false,
+        "updated_at": "2026-05-06T16:58:28Z",
+        "owner": {
+          "login": "QuantumNous",
+          "type": "Organization"
+        }
+      },
+      {
+        "full_name": "router-for-me/CLIProxyAPI",
+        "html_url": "https://github.com/router-for-me/CLIProxyAPI",
+        "description": "Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model through API",
+        "language": "Go",
+        "topics": [
+          "antigravity",
+          "claude-code",
+          "cluade",
+          "codex",
+          "gemini",
+          "openai"
+        ],
+        "stargazers_count": 30947,
+        "forks_count": 5155,
+        "archived": false,
+        "updated_at": "2026-05-06T16:50:15Z",
+        "owner": {
+          "login": "router-for-me",
+          "type": "Organization"
+        }
+      },
+      {
+        "full_name": "yamadashy/repomix",
+        "html_url": "https://github.com/yamadashy/repomix",
+        "description": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
+        "language": "TypeScript",
+        "topics": [
+          "ai",
+          "anthropic",
+          "artificial-intelligence",
+          "chatbot",
+          "chatgpt",
+          "claude",
+          "deepseek",
+          "developer-tools",
+          "gemini",
+          "genai",
+          "generative-ai",
+          "gpt",
+          "javascript",
+          "language-model",
+          "llama",
+          "llm",
+          "mcp",
+          "nodejs",
+          "openai",
+          "typescript"
+        ],
+        "stargazers_count": 24407,
+        "forks_count": 1211,
+        "archived": false,
+        "updated_at": "2026-05-06T16:00:31Z",
+        "owner": {
+          "login": "yamadashy",
+          "type": "User"
+        }
+      },
+      {
+        "full_name": "anthropics/claude-plugins-official",
+        "html_url": "https://github.com/anthropics/claude-plugins-official",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "topics": [
+          "claude-code",
+          "mcp",
+          "skills"
+        ],
+        "stargazers_count": 18673,
+        "forks_count": 2277,
+        "archived": false,
+        "updated_at": "2026-05-06T16:56:06Z",
+        "owner": {
+          "login": "anthropics",
+          "type": "Organization"
+        }
+      },
+      {
+        "full_name": "YILING0013/AI_NovelGenerator",
+        "html_url": "https://github.com/YILING0013/AI_NovelGenerator",
+        "description": "使用ai生成多章节的长篇小说，自动衔接上下文、伏笔",
+        "language": "Python",
+        "topics": [],
+        "stargazers_count": 4749,
+        "forks_count": 863,
+        "archived": false,
+        "updated_at": "2026-05-06T15:40:38Z",
+        "owner": {
+          "login": "YILING0013",
+          "type": "User"
+        }
+      },
+      {
+        "full_name": "junhoyeo/tokscale",
+        "html_url": "https://github.com/junhoyeo/tokscale",
+        "description": "🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph",
+        "language": "Rust",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ampcode",
+          "claude",
+          "claude-code",
+          "clawdbot",
+          "codex",
+          "cursor",
+          "cursor-ide",
+          "droid",
+          "gemini",
+          "gemini-cli",
+          "gpt",
+          "hermes",
+          "moltbot",
+          "oh",
+          "openclaw",
+          "opencode",
+          "opentui",
+          "token-usage"
+        ],
+        "stargazers_count": 2638,
+        "forks_count": 176,
+        "archived": false,
+        "updated_at": "2026-05-06T16:35:06Z",
+        "owner": {
+          "login": "junhoyeo",
+          "type": "User"
+        }
+      },
+      {
+        "full_name": "doccker/cc-use-exp",
+        "html_url": "https://github.com/doccker/cc-use-exp",
+        "description": "让 Claude Code、Gemini CLI、Codex、Cursor 开箱即用的分层配置模板，总结十多年的日常开发经验，持续完善中……",
+        "language": "Python",
+        "topics": [
+          "claude-code",
+          "codex",
+          "cursor",
+          "gemini-cli",
+          "github-copilot"
+        ],
+        "stargazers_count": 669,
+        "forks_count": 67,
+        "archived": false,
+        "updated_at": "2026-05-06T09:35:05Z",
+        "owner": {
+          "login": "doccker",
+          "type": "User"
+        }
+      },
+      {
+        "full_name": "kittors/CliRelay",
+        "html_url": "https://github.com/kittors/CliRelay",
+        "description": "Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API",
+        "language": "Go",
+        "topics": [],
+        "stargazers_count": 646,
+        "forks_count": 50,
+        "archived": false,
+        "updated_at": "2026-05-06T15:41:19Z",
+        "owner": {
+          "login": "kittors",
+          "type": "User"
+        }
+      }
+    ],
+    "LLM 推理 / 部署 / 模型运维": [],
+    "AI 研究 / 机器学习框架": [],
+    "开发工具 / CLI / 效率工具": [
+      {
+        "full_name": "maboloshi/github-chinese",
+        "html_url": "https://github.com/maboloshi/github-chinese",
+        "description": "GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)",
+        "language": "JavaScript",
+        "topics": [
+          "github",
+          "greasyfork",
+          "macaque",
+          "tampermonkey",
+          "userscript",
+          "violentmonkey"
+        ],
+        "stargazers_count": 24731,
+        "forks_count": 1419,
+        "archived": false,
+        "updated_at": "2026-05-06T16:37:31Z",
+        "owner": {
+          "login": "maboloshi",
+          "type": "User"
+        }
+      },
+      {
+        "full_name": "Panniantong/Agent-Reach",
+        "html_url": "https://github.com/Panniantong/Agent-Reach",
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "language": "Python",
+        "topics": [
+          "agent-infrastructure",
+          "ai-agent",
+          "ai-search",
+          "automation",
+          "bilibili",
+          "claude-code",
+          "cli",
+          "cursor",
+          "free-api",
+          "llm-tools",
+          "mcp",
+          "python",
+          "reddit-scraper",
+          "twitter-scraper",
+          "web-scraper",
+          "xiaohongshu",
+          "youtube-transcript"
+        ],
+        "stargazers_count": 18864,
+        "forks_count": 1672,
+        "archived": false,
+        "updated_at": "2026-05-06T16:58:50Z",
+        "owner": {
+          "login": "Panniantong",
+          "type": "User"
+        }
+      },
+      {
+        "full_name": "jlcodes99/cockpit-tools",
+        "html_url": "https://github.com/jlcodes99/cockpit-tools",
+        "description": " 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta",
+        "language": "Rust",
+        "topics": [
+          "account-manager",
+          "ai",
+          "antigravity",
+          "codebuddy",
+          "codex",
+          "cursor",
+          "github-copilot",
+          "kiro",
+          "windsurf"
+        ],
+        "stargazers_count": 6571,
+        "forks_count": 614,
+        "archived": false,
+        "updated_at": "2026-05-06T16:54:23Z",
+        "owner": {
+          "login": "jlcodes99",
+          "type": "User"
+        }
+      },
+      {
+        "full_name": "getagentseal/codeburn",
+        "html_url": "https://github.com/getagentseal/codeburn",
+        "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
+        "language": "TypeScript",
+        "topics": [
+          "ai-coding",
+          "claude-code",
+          "cli",
+          "codex",
+          "cost-tracking",
+          "cursor-ide",
+          "developer-tools",
+          "observability",
+          "terminal-ui",
+          "token-usage"
+        ],
+        "stargazers_count": 5601,
+        "forks_count": 424,
+        "archived": false,
+        "updated_at": "2026-05-06T16:59:48Z",
+        "owner": {
+          "login": "getagentseal",
+          "type": "Organization"
+        }
+      },
+      {
+        "full_name": "RICHQAQ/PasteMD",
+        "html_url": "https://github.com/RICHQAQ/PasteMD",
+        "description": "一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.",
+        "language": "Python",
+        "topics": [
+          "ai",
+          "chatgpt",
+          "clipboard",
+          "converter",
+          "deepseek",
+          "excel",
+          "latex",
+          "markdown",
+          "pandoc",
+          "productivity",
+          "python",
+          "word",
+          "wps"
+        ],
+        "stargazers_count": 4771,
+        "forks_count": 290,
+        "archived": false,
+        "updated_at": "2026-05-06T13:35:17Z",
+        "owner": {
+          "login": "RICHQAQ",
+          "type": "User"
+        }
+      },
+      {
+        "full_name": "hotyue/IP-Sentinel",
+        "html_url": "https://github.com/hotyue/IP-Sentinel",
+        "description": "IP-Sentinel 是一款轻量化、模块化的分布式 VPS 资产养护系统，通过地理位置信号锚定与高拟真本土流量注入，精准解决 IP 定位偏移及风控分过高的痛点，并配合 Telegram 实现全球多节点“低功耗、拟真、无人值守”的自动化资产养护。",
+        "language": "Shell",
+        "topics": [],
+        "stargazers_count": 584,
+        "forks_count": 89,
+        "archived": false,
+        "updated_at": "2026-05-06T16:22:54Z",
+        "owner": {
+          "login": "hotyue",
+          "type": "User"
+        }
+      },
+      {
+        "full_name": "kansonkong/vibe-coding-cn",
+        "html_url": "https://github.com/kansonkong/vibe-coding-cn",
+        "description": "我的开发经验+vibe-coding 的中文翻译版本",
+        "language": "",
+        "topics": [],
+        "stargazers_count": 202,
+        "forks_count": 23,
+        "archived": false,
+        "updated_at": "2026-04-27T17:19:32Z",
+        "owner": {
+          "login": "kansonkong",
+          "type": "User"
+        }
+      },
+      {
+        "full_name": "tyler5685/moeSS",
+        "html_url": "https://github.com/tyler5685/moeSS",
+        "description": "moe SS Front End for https://github.com/mengskysama/shadowsocks/tree/manyuser",
+        "language": "PHP",
+        "topics": [],
+        "stargazers_count": 1,
+        "forks_count": 0,
+        "archived": false,
+        "updated_at": "2015-06-10T07:21:36Z",
+        "owner": {
+          "login": "tyler5685",
+          "type": "User"
+        }
+      }
+    ],
+    "Web / 全栈 / UI": [
+      {
+        "full_name": "router-for-me/Cli-Proxy-API-Management-Center",
+        "html_url": "https://github.com/router-for-me/Cli-Proxy-API-Management-Center",
+        "description": "This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications and runtime status monitoring.",
+        "language": "TypeScript",
+        "topics": [],
+        "stargazers_count": 2463,
+        "forks_count": 777,
+        "archived": false,
+        "updated_at": "2026-05-06T16:24:44Z",
+        "owner": {
+          "login": "router-for-me",
+          "type": "Organization"
+        }
+      },
+      {
+        "full_name": "kingskuan/Claudebot-vibe",
+        "html_url": "https://github.com/kingskuan/Claudebot-vibe",
+        "description": "",
+        "language": "JavaScript",
+        "topics": [],
+        "stargazers_count": 156,
+        "forks_count": 43,
+        "archived": false,
+        "updated_at": "2026-05-06T00:09:45Z",
+        "owner": {
+          "login": "kingskuan",
+          "type": "User"
+        }
+      }
+    ],
+    "基础设施 / DevOps / 云服务": [
+      {
+        "full_name": "XTLS/Xray-core",
+        "html_url": "https://github.com/XTLS/Xray-core",
+        "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+        "language": "Go",
+        "topics": [
+          "anticensorship",
+          "dns",
+          "network",
+          "proxy",
+          "reality",
+          "shadowsocks",
+          "socks5",
+          "tls",
+          "trojan",
+          "tunnel",
+          "utls",
+          "vision",
+          "vless",
+          "vmess",
+          "vpn",
+          "wireguard",
+          "xhttp",
+          "xray",
+          "xtls",
+          "xudp"
+        ],
+        "stargazers_count": 38206,
+        "forks_count": 5308,
+        "archived": false,
+        "updated_at": "2026-05-06T15:58:39Z",
+        "owner": {
+          "login": "XTLS",
+          "type": "Organization"
+        }
+      },
+      {
+        "full_name": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+        "html_url": "https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+        "description": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。",
+        "language": "",
+        "topics": [
+          "adblock",
+          "gfw",
+          "proxy",
+          "shadowrocket",
+          "v2ray"
+        ],
+        "stargazers_count": 25277,
+        "forks_count": 1679,
+        "archived": false,
+        "updated_at": "2026-05-06T16:44:16Z",
+        "owner": {
+          "login": "Johnshall",
+          "type": "User"
+        }
+      },
+      {
+        "full_name": "mack-a/v2ray-agent",
+        "html_url": "https://github.com/mack-a/v2ray-agent",
+        "description": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
+        "language": "Shell",
+        "topics": [
+          "cloudflare",
+          "grpc-cloudflare",
+          "httpupgrade",
+          "hysteria2",
+          "nginx",
+          "reality",
+          "reality-grpc",
+          "shell",
+          "sing-box",
+          "trojan",
+          "trojan-grpc",
+          "tuic-v5",
+          "v2ray",
+          "vless",
+          "vmess",
+          "websockettlscdn-cloudflare-ip",
+          "xray",
+          "xray-core",
+          "xray-install",
+          "xtls-rprx-vision"
+        ],
+        "stargazers_count": 20506,
+        "forks_count": 5405,
+        "archived": false,
+        "updated_at": "2026-05-06T16:34:20Z",
+        "owner": {
+          "login": "mack-a",
+          "type": "User"
+        }
+      }
+    ],
+    "数据 / 搜索 / 数据库": [],
+    "安全 / 隐私 / 认证": [],
+    "媒体 / 创意 / 设计": [
+      {
+        "full_name": "jamiepine/voicebox",
+        "html_url": "https://github.com/jamiepine/voicebox",
+        "description": "The open-source AI voice studio. Clone, dictate, create.",
+        "language": "TypeScript",
+        "topics": [
+          "ai",
+          "cuda",
+          "mlx",
+          "qwen3-tts",
+          "qwen3-tts-ui",
+          "voice-ai",
+          "voice-clone",
+          "whisper"
+        ],
+        "stargazers_count": 24664,
+        "forks_count": 2979,
+        "archived": false,
+        "updated_at": "2026-05-06T16:52:00Z",
+        "owner": {
+          "login": "jamiepine",
+          "type": "User"
+        }
+      },
+      {
+        "full_name": "AIDC-AI/Pixelle-Video",
+        "html_url": "https://github.com/AIDC-AI/Pixelle-Video",
+        "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+        "language": "Python",
+        "topics": [
+          "aigc",
+          "comfyui",
+          "image-generation",
+          "tts",
+          "video-generation"
+        ],
+        "stargazers_count": 12662,
+        "forks_count": 1920,
+        "archived": false,
+        "updated_at": "2026-05-06T16:59:31Z",
+        "owner": {
+          "login": "AIDC-AI",
+          "type": "Organization"
+        }
+      }
+    ],
+    "移动端 / Apple / 家庭与 IoT": [
+      {
+        "full_name": "xiaojieonly/Ehviewer_CN_SXJ",
+        "html_url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
+        "description": "ehviewer，用爱发电，快乐前行",
+        "language": "C",
+        "topics": [
+          "android",
+          "apk",
+          "c",
+          "cartoon",
+          "chinese",
+          "comics",
+          "e-hentai",
+          "ehviewer",
+          "exhentai",
+          "hentai",
+          "hentai-downloader",
+          "hentai-viwer",
+          "html5",
+          "java",
+          "screenshot"
+        ],
+        "stargazers_count": 23859,
+        "forks_count": 620,
+        "archived": false,
+        "updated_at": "2026-05-06T15:09:25Z",
+        "owner": {
+          "login": "xiaojieonly",
+          "type": "User"
+        }
+      }
+    ],
+    "学习资源 / Awesome / 参考资料": [
+      {
+        "full_name": "codecrafters-io/build-your-own-x",
+        "html_url": "https://github.com/codecrafters-io/build-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "language": "Markdown",
+        "topics": [
+          "awesome-list",
+          "free",
+          "programming",
+          "tutorial-code",
+          "tutorial-exercises",
+          "tutorials"
+        ],
+        "stargazers_count": 499458,
+        "forks_count": 47353,
+        "archived": false,
+        "updated_at": "2026-05-06T17:01:21Z",
+        "owner": {
+          "login": "codecrafters-io",
+          "type": "Organization"
+        }
+      },
+      {
+        "full_name": "public-apis/public-apis",
+        "html_url": "https://github.com/public-apis/public-apis",
+        "description": "A collective list of free APIs",
+        "language": "Python",
+        "topics": [
+          "api",
+          "apis",
+          "dataset",
+          "development",
+          "free",
+          "list",
+          "lists",
+          "open-source",
+          "public",
+          "public-api",
+          "public-apis",
+          "resources",
+          "software"
+        ],
+        "stargazers_count": 432653,
+        "forks_count": 47308,
+        "archived": false,
+        "updated_at": "2026-05-06T17:01:15Z",
+        "owner": {
+          "login": "public-apis",
+          "type": "Organization"
+        }
+      },
+      {
+        "full_name": "VoltAgent/awesome-design-md",
+        "html_url": "https://github.com/VoltAgent/awesome-design-md",
+        "description": "A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+        "language": "",
+        "topics": [
+          "awesome-list",
+          "design-md",
+          "design-system",
+          "design-tokens",
+          "figma",
+          "google-stitch",
+          "landing-page",
+          "vibe-coding",
+          "vibe-design"
+        ],
+        "stargazers_count": 72007,
+        "forks_count": 8826,
+        "archived": false,
+        "updated_at": "2026-05-06T16:49:24Z",
+        "owner": {
+          "login": "VoltAgent",
+          "type": "Organization"
+        }
+      },
+      {
+        "full_name": "spoto-team/openclaw-ubuntu-guide",
+        "html_url": "https://github.com/spoto-team/openclaw-ubuntu-guide",
+        "description": "Ubuntu 虚拟机安装 OpenClaw 完整教程",
+        "language": "",
+        "topics": [],
+        "stargazers_count": 307,
+        "forks_count": 61,
+        "archived": false,
+        "updated_at": "2026-05-04T01:45:14Z",
+        "owner": {
+          "login": "spoto-team",
+          "type": "User"
+        }
+      }
+    ],
+    "其他 / 综合": []
+  }
+}

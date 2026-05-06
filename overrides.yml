@@ -1,0 +1,10 @@
+# 手动纠错：repo 全名 -> 中文分类名
+# 示例：
+# owner/repo: AI Agent 与 LLM 应用
+
+public-apis/public-apis: 学习资源 / Awesome / 参考资料
+jamiepine/voicebox: 媒体 / 创意 / 设计
+VoltAgent/awesome-design-md: 学习资源 / Awesome / 参考资料
+router-for-me/Cli-Proxy-API-Management-Center: Web / 全栈 / UI
+spoto-team/openclaw-ubuntu-guide: 学习资源 / Awesome / 参考资料
+YILING0013/AI_NovelGenerator: AI Agent 与 LLM 应用
