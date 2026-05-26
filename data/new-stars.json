@@ -1,37 +1,4 @@
 {
-  "count": 1,
-  "repos": [
-    {
-      "full_name": "jnMetaCode/superpowers-zh",
-      "html_url": "https://github.com/jnMetaCode/superpowers-zh",
-      "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活",
-      "language": "Shell",
-      "topics": [
-        "agent-skills",
-        "agentic-coding",
-        "ai-coding",
-        "chinese",
-        "claude-code",
-        "code-review",
-        "cursor",
-        "gemini-cli",
-        "kiro",
-        "mcp",
-        "npm-package",
-        "prompt-engineering",
-        "skills",
-        "superpowers",
-        "tdd",
-        "trae"
-      ],
-      "stargazers_count": 3881,
-      "forks_count": 380,
-      "archived": false,
-      "updated_at": "2026-05-25T02:38:04Z",
-      "owner": {
-        "login": "jnMetaCode",
-        "type": "User"
-      }
-    }
-  ]
+  "count": 0,
+  "repos": []
 }
