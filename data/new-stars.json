@@ -1,20 +1,4 @@
 {
-  "count": 1,
-  "repos": [
-    {
-      "full_name": "liominsb/Antigravity-Chinese-Localization",
-      "html_url": "https://github.com/liominsb/Antigravity-Chinese-Localization",
-      "description": "antigravity一键汉化",
-      "language": "JavaScript",
-      "topics": [],
-      "stargazers_count": 102,
-      "forks_count": 4,
-      "archived": false,
-      "updated_at": "2026-06-13T14:06:12Z",
-      "owner": {
-        "login": "liominsb",
-        "type": "User"
-      }
-    }
-  ]
+  "count": 0,
+  "repos": []
 }
