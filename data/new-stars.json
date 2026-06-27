@@ -1,33 +1,4 @@
 {
-  "count": 1,
-  "repos": [
-    {
-      "full_name": "codertesla/ai-coding-deals",
-      "html_url": "https://github.com/codertesla/ai-coding-deals",
-      "description": "Money-saving guide to AI coding tools: free tiers, discounts, referral credits & open-source alternatives. 省钱指南。",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "ai-coding",
-        "ai-tools",
-        "awesome-list",
-        "claude-code",
-        "coding-assistant",
-        "cursor",
-        "developer-tools",
-        "discounts",
-        "github-copilot",
-        "llm",
-        "pricing"
-      ],
-      "stargazers_count": 17,
-      "forks_count": 0,
-      "archived": false,
-      "updated_at": "2026-06-26T02:35:31Z",
-      "owner": {
-        "login": "codertesla",
-        "type": "User"
-      }
-    }
-  ]
+  "count": 0,
+  "repos": []
 }
