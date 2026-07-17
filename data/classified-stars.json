@@ -21,10 +21,10 @@
         "topics": [
           "agent-skills"
         ],
-        "stargazers_count": 161456,
-        "forks_count": 19080,
+        "stargazers_count": 161760,
+        "forks_count": 19125,
         "archived": false,
-        "updated_at": "2026-07-16T01:55:27Z",
+        "updated_at": "2026-07-17T01:58:44Z",
         "owner": {
           "login": "anthropics",
           "type": "Organization"
@@ -57,10 +57,10 @@
           "typescript",
           "wsl-support"
         ],
-        "stargazers_count": 117604,
-        "forks_count": 7869,
+        "stargazers_count": 117983,
+        "forks_count": 7902,
         "archived": false,
-        "updated_at": "2026-07-16T01:54:10Z",
+        "updated_at": "2026-07-17T02:00:35Z",
         "owner": {
           "login": "farion1231",
           "type": "User"
@@ -80,10 +80,10 @@
           "playwright",
           "python"
         ],
-        "stargazers_count": 104928,
-        "forks_count": 11558,
+        "stargazers_count": 105105,
+        "forks_count": 11569,
         "archived": false,
-        "updated_at": "2026-07-16T01:56:04Z",
+        "updated_at": "2026-07-17T01:39:42Z",
         "owner": {
           "login": "browser-use",
           "type": "Organization"
@@ -110,10 +110,10 @@
           "rag",
           "state-management"
         ],
-        "stargazers_count": 60925,
-        "forks_count": 7095,
+        "stargazers_count": 61007,
+        "forks_count": 7101,
         "archived": false,
-        "updated_at": "2026-07-16T01:55:02Z",
+        "updated_at": "2026-07-17T00:51:56Z",
         "owner": {
           "login": "mem0ai",
           "type": "Organization"
@@ -142,10 +142,10 @@
           "wechat",
           "wework"
         ],
-        "stargazers_count": 60578,
-        "forks_count": 24794,
+        "stargazers_count": 60613,
+        "forks_count": 24791,
         "archived": false,
-        "updated_at": "2026-07-15T20:19:43Z",
+        "updated_at": "2026-07-17T01:25:05Z",
         "owner": {
           "login": "sansan0",
           "type": "User"
@@ -165,13 +165,35 @@
           "quantitative-finance",
           "quantitative-trading"
         ],
-        "stargazers_count": 57384,
-        "forks_count": 49369,
+        "stargazers_count": 57543,
+        "forks_count": 49494,
         "archived": false,
-        "updated_at": "2026-07-16T01:50:06Z",
+        "updated_at": "2026-07-17T01:59:11Z",
         "owner": {
           "login": "ZhuLinsen",
           "type": "User"
+        }
+      },
+      {
+        "full_name": "router-for-me/CLIProxyAPI",
+        "html_url": "https://github.com/router-for-me/CLIProxyAPI",
+        "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API",
+        "language": "Go",
+        "topics": [
+          "antigravity",
+          "claude-code",
+          "cluade",
+          "codex",
+          "gemini",
+          "openai"
+        ],
+        "stargazers_count": 42623,
+        "forks_count": 6774,
+        "archived": false,
+        "updated_at": "2026-07-17T01:59:02Z",
+        "owner": {
+          "login": "router-for-me",
+          "type": "Organization"
         }
       },
       {
@@ -188,34 +210,12 @@
           "openai",
           "rerank"
         ],
-        "stargazers_count": 42349,
-        "forks_count": 9834,
+        "stargazers_count": 42463,
+        "forks_count": 9880,
         "archived": false,
-        "updated_at": "2026-07-16T01:34:13Z",
+        "updated_at": "2026-07-17T01:57:59Z",
         "owner": {
           "login": "QuantumNous",
-          "type": "Organization"
-        }
-      },
-      {
-        "full_name": "router-for-me/CLIProxyAPI",
-        "html_url": "https://github.com/router-for-me/CLIProxyAPI",
-        "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API",
-        "language": "Go",
-        "topics": [
-          "antigravity",
-          "claude-code",
-          "cluade",
-          "codex",
-          "gemini",
-          "openai"
-        ],
-        "stargazers_count": 42207,
-        "forks_count": 6733,
-        "archived": false,
-        "updated_at": "2026-07-16T01:53:18Z",
-        "owner": {
-          "login": "router-for-me",
           "type": "Organization"
         }
       },
@@ -229,10 +229,10 @@
           "mcp",
           "skills"
         ],
-        "stargazers_count": 32177,
-        "forks_count": 3582,
+        "stargazers_count": 32221,
+        "forks_count": 3590,
         "archived": false,
-        "updated_at": "2026-07-16T01:40:55Z",
+        "updated_at": "2026-07-17T01:18:27Z",
         "owner": {
           "login": "anthropics",
           "type": "Organization"
@@ -265,10 +265,10 @@
           "openai",
           "typescript"
         ],
-        "stargazers_count": 27154,
-        "forks_count": 1437,
+        "stargazers_count": 27172,
+        "forks_count": 1436,
         "archived": false,
-        "updated_at": "2026-07-16T01:51:35Z",
+        "updated_at": "2026-07-16T23:54:04Z",
         "owner": {
           "login": "yamadashy",
           "type": "User"
@@ -297,10 +297,10 @@
           "tdd",
           "trae"
         ],
-        "stargazers_count": 6926,
-        "forks_count": 667,
+        "stargazers_count": 6965,
+        "forks_count": 672,
         "archived": false,
-        "updated_at": "2026-07-16T01:53:41Z",
+        "updated_at": "2026-07-17T01:58:14Z",
         "owner": {
           "login": "jnMetaCode",
           "type": "User"
@@ -312,10 +312,10 @@
         "description": "使用ai生成多章节的长篇小说，自动衔接上下文、伏笔",
         "language": "Python",
         "topics": [],
-        "stargazers_count": 5621,
-        "forks_count": 991,
+        "stargazers_count": 5631,
+        "forks_count": 992,
         "archived": false,
-        "updated_at": "2026-07-16T01:29:27Z",
+        "updated_at": "2026-07-16T14:39:11Z",
         "owner": {
           "login": "YILING0013",
           "type": "User"
@@ -348,10 +348,10 @@
           "opentui",
           "token-usage"
         ],
-        "stargazers_count": 4475,
-        "forks_count": 436,
+        "stargazers_count": 4426,
+        "forks_count": 343,
         "archived": false,
-        "updated_at": "2026-07-16T01:02:51Z",
+        "updated_at": "2026-07-17T01:41:02Z",
         "owner": {
           "login": "junhoyeo",
           "type": "User"
@@ -370,10 +370,10 @@
           "gemini-cli",
           "github-copilot"
         ],
-        "stargazers_count": 986,
+        "stargazers_count": 987,
         "forks_count": 103,
         "archived": false,
-        "updated_at": "2026-07-14T07:56:29Z",
+        "updated_at": "2026-07-16T02:35:59Z",
         "owner": {
           "login": "doccker",
           "type": "User"
@@ -385,10 +385,10 @@
         "description": "Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API",
         "language": "Go",
         "topics": [],
-        "stargazers_count": 854,
-        "forks_count": 94,
+        "stargazers_count": 856,
+        "forks_count": 95,
         "archived": false,
-        "updated_at": "2026-07-15T17:53:22Z",
+        "updated_at": "2026-07-17T01:51:20Z",
         "owner": {
           "login": "kittors",
           "type": "User"
@@ -422,10 +422,10 @@
           "xiaohongshu",
           "youtube-transcript"
         ],
-        "stargazers_count": 56824,
-        "forks_count": 4671,
+        "stargazers_count": 57193,
+        "forks_count": 4580,
         "archived": false,
-        "updated_at": "2026-07-16T01:57:13Z",
+        "updated_at": "2026-07-17T02:00:00Z",
         "owner": {
           "login": "Panniantong",
           "type": "User"
@@ -444,10 +444,10 @@
           "userscript",
           "violentmonkey"
         ],
-        "stargazers_count": 28677,
-        "forks_count": 1682,
+        "stargazers_count": 28735,
+        "forks_count": 1685,
         "archived": false,
-        "updated_at": "2026-07-16T01:35:49Z",
+        "updated_at": "2026-07-17T02:01:01Z",
         "owner": {
           "login": "maboloshi",
           "type": "User"
@@ -469,10 +469,10 @@
           "kiro",
           "windsurf"
         ],
-        "stargazers_count": 13551,
-        "forks_count": 1242,
+        "stargazers_count": 13623,
+        "forks_count": 1245,
         "archived": false,
-        "updated_at": "2026-07-16T01:51:29Z",
+        "updated_at": "2026-07-17T01:59:36Z",
         "owner": {
           "login": "jlcodes99",
           "type": "User"
@@ -497,10 +497,10 @@
           "token-usage",
           "web-dashboard"
         ],
-        "stargazers_count": 8676,
-        "forks_count": 684,
+        "stargazers_count": 8693,
+        "forks_count": 683,
         "archived": false,
-        "updated_at": "2026-07-15T23:26:12Z",
+        "updated_at": "2026-07-17T01:59:38Z",
         "owner": {
           "login": "getagentseal",
           "type": "Organization"
@@ -526,10 +526,10 @@
           "word",
           "wps"
         ],
-        "stargazers_count": 5140,
-        "forks_count": 309,
+        "stargazers_count": 5146,
+        "forks_count": 310,
         "archived": false,
-        "updated_at": "2026-07-16T01:39:16Z",
+        "updated_at": "2026-07-16T08:32:48Z",
         "owner": {
           "login": "RICHQAQ",
           "type": "User"
@@ -541,10 +541,10 @@
         "description": "IP-Sentinel 是一款轻量化、模块化的分布式 VPS 资产养护系统，通过地理位置信号锚定与高拟真本土流量注入，精准解决 IP 定位偏移（IP送中）及风控分过高的痛点，并配合 Telegram 实现全球多节点“低功耗、拟真、无人值守”的自动化资产养护。",
         "language": "Shell",
         "topics": [],
-        "stargazers_count": 1506,
-        "forks_count": 166,
+        "stargazers_count": 1512,
+        "forks_count": 167,
         "archived": false,
-        "updated_at": "2026-07-15T21:23:43Z",
+        "updated_at": "2026-07-17T01:45:05Z",
         "owner": {
           "login": "hotyue",
           "type": "User"
@@ -584,10 +584,10 @@
           "llm",
           "pricing"
         ],
-        "stargazers_count": 58,
+        "stargazers_count": 61,
         "forks_count": 1,
         "archived": false,
-        "updated_at": "2026-07-14T09:32:13Z",
+        "updated_at": "2026-07-16T22:19:22Z",
         "owner": {
           "login": "codertesla",
           "type": "User"
@@ -616,10 +616,10 @@
         "description": "This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications and runtime status monitoring.",
         "language": "TypeScript",
         "topics": [],
-        "stargazers_count": 3479,
-        "forks_count": 1100,
+        "stargazers_count": 3522,
+        "forks_count": 1104,
         "archived": false,
-        "updated_at": "2026-07-16T01:56:31Z",
+        "updated_at": "2026-07-16T23:31:48Z",
         "owner": {
           "login": "router-for-me",
           "type": "Organization"
@@ -684,10 +684,10 @@
           "xtls",
           "xudp"
         ],
-        "stargazers_count": 40442,
-        "forks_count": 5682,
+        "stargazers_count": 40459,
+        "forks_count": 5685,
         "archived": false,
-        "updated_at": "2026-07-16T01:55:58Z",
+        "updated_at": "2026-07-17T01:39:32Z",
         "owner": {
           "login": "XTLS",
           "type": "Organization"
@@ -705,10 +705,10 @@
           "shadowrocket",
           "v2ray"
         ],
-        "stargazers_count": 28470,
+        "stargazers_count": 28485,
         "forks_count": 1899,
         "archived": false,
-        "updated_at": "2026-07-16T01:00:08Z",
+        "updated_at": "2026-07-17T00:52:31Z",
         "owner": {
           "login": "Johnshall",
           "type": "User"
@@ -741,10 +741,10 @@
           "xray-install",
           "xtls-rprx-vision"
         ],
-        "stargazers_count": 21499,
+        "stargazers_count": 21507,
         "forks_count": 5520,
         "archived": false,
-        "updated_at": "2026-07-15T11:34:11Z",
+        "updated_at": "2026-07-17T01:32:20Z",
         "owner": {
           "login": "mack-a",
           "type": "User"
@@ -767,10 +767,10 @@
           "springboot",
           "vue"
         ],
-        "stargazers_count": 38225,
-        "forks_count": 8270,
+        "stargazers_count": 38238,
+        "forks_count": 8272,
         "archived": false,
-        "updated_at": "2026-07-16T01:49:59Z",
+        "updated_at": "2026-07-17T01:56:37Z",
         "owner": {
           "login": "YunaiV",
           "type": "User"
@@ -794,10 +794,10 @@
           "voice-clone",
           "whisper"
         ],
-        "stargazers_count": 41589,
-        "forks_count": 5036,
+        "stargazers_count": 41884,
+        "forks_count": 5063,
         "archived": false,
-        "updated_at": "2026-07-16T01:52:23Z",
+        "updated_at": "2026-07-17T01:58:00Z",
         "owner": {
           "login": "jamiepine",
           "type": "User"
@@ -815,10 +815,10 @@
           "tts",
           "video-generation"
         ],
-        "stargazers_count": 25571,
-        "forks_count": 3694,
+        "stargazers_count": 25623,
+        "forks_count": 3705,
         "archived": false,
-        "updated_at": "2026-07-16T01:53:27Z",
+        "updated_at": "2026-07-17T01:57:05Z",
         "owner": {
           "login": "ATH-MaaS",
           "type": "Organization"
@@ -848,10 +848,10 @@
           "java",
           "screenshot"
         ],
-        "stargazers_count": 25353,
+        "stargazers_count": 25375,
         "forks_count": 667,
         "archived": false,
-        "updated_at": "2026-07-16T01:45:57Z",
+        "updated_at": "2026-07-17T01:57:23Z",
         "owner": {
           "login": "xiaojieonly",
           "type": "User"
@@ -870,10 +870,10 @@
           "termius",
           "windows"
         ],
-        "stargazers_count": 2593,
-        "forks_count": 307,
+        "stargazers_count": 2597,
+        "forks_count": 306,
         "archived": false,
-        "updated_at": "2026-07-16T01:41:11Z",
+        "updated_at": "2026-07-16T13:43:38Z",
         "owner": {
           "login": "ArcSurge",
           "type": "User"
@@ -894,10 +894,10 @@
           "tutorial-exercises",
           "tutorials"
         ],
-        "stargazers_count": 525635,
-        "forks_count": 49730,
+        "stargazers_count": 526348,
+        "forks_count": 49800,
         "archived": false,
-        "updated_at": "2026-07-16T01:54:37Z",
+        "updated_at": "2026-07-17T02:00:56Z",
         "owner": {
           "login": "codecrafters-io",
           "type": "Organization"
@@ -923,10 +923,10 @@
           "resources",
           "software"
         ],
-        "stargazers_count": 450486,
-        "forks_count": 49534,
+        "stargazers_count": 450742,
+        "forks_count": 49575,
         "archived": false,
-        "updated_at": "2026-07-16T01:57:03Z",
+        "updated_at": "2026-07-17T02:00:16Z",
         "owner": {
           "login": "public-apis",
           "type": "Organization"
@@ -949,10 +949,10 @@
           "vibe-design",
           "vibecoding"
         ],
-        "stargazers_count": 102140,
-        "forks_count": 11766,
+        "stargazers_count": 102442,
+        "forks_count": 11797,
         "archived": false,
-        "updated_at": "2026-07-16T01:57:04Z",
+        "updated_at": "2026-07-17T01:58:19Z",
         "owner": {
           "login": "VoltAgent",
           "type": "Organization"
