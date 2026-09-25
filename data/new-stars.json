@@ -1,28 +1,4 @@
 {
-  "count": 1,
-  "repos": [
-    {
-      "full_name": "Aethersailor/Custom_OpenClash_Rules",
-      "html_url": "https://github.com/Aethersailor/Custom_OpenClash_Rules",
-      "description": "面向 OpenClash 用户的配置、订阅转换模板、YAML、规则、覆写模块、脚本与中文教程。",
-      "language": "Shell",
-      "topics": [
-        "clash",
-        "clash-meta",
-        "gfwlist",
-        "openclash",
-        "openwrt",
-        "ruleset",
-        "vless"
-      ],
-      "stargazers_count": 6545,
-      "forks_count": 1391,
-      "archived": false,
-      "updated_at": "2026-09-24T01:53:26Z",
-      "owner": {
-        "login": "Aethersailor",
-        "type": "User"
-      }
-    }
-  ]
+  "count": 0,
+  "repos": []
 }
