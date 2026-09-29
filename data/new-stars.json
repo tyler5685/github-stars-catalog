@@ -1,31 +1,4 @@
 {
-  "count": 1,
-  "repos": [
-    {
-      "full_name": "AdguardTeam/AdGuardHome",
-      "html_url": "https://github.com/AdguardTeam/AdGuardHome",
-      "description": "Network-wide ads & trackers blocking DNS server",
-      "language": "TypeScript",
-      "topics": [
-        "adblock",
-        "adguard",
-        "dns",
-        "dns-over-https",
-        "dns-over-quic",
-        "dns-over-tls",
-        "dnscrypt",
-        "golang",
-        "open-source",
-        "privacy"
-      ],
-      "stargazers_count": 37090,
-      "forks_count": 2523,
-      "archived": false,
-      "updated_at": "2026-09-28T02:35:32Z",
-      "owner": {
-        "login": "AdguardTeam",
-        "type": "Organization"
-      }
-    }
-  ]
+  "count": 0,
+  "repos": []
 }
