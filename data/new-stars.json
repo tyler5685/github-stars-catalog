@@ -1,20 +1,4 @@
 {
-  "count": 1,
-  "repos": [
-    {
-      "full_name": "jiutinglifeng/airbeep-calltone-research",
-      "html_url": "https://github.com/jiutinglifeng/airbeep-calltone-research",
-      "description": "通话录音提示音消除项目：基于 AirliftSilence(Windows) 的实施方案与操作交接文档。仓库内含 LinkPass888/AirBeep 克隆作为研究素材（上游为 GPL-3.0）。",
-      "language": "Python",
-      "topics": [],
-      "stargazers_count": 11,
-      "forks_count": 7,
-      "archived": false,
-      "updated_at": "2026-10-12T14:53:52Z",
-      "owner": {
-        "login": "jiutinglifeng",
-        "type": "User"
-      }
-    }
-  ]
+  "count": 0,
+  "repos": []
 }
