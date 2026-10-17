@@ -1,4 +1,27 @@
 {
-  "count": 0,
-  "repos": []
+  "count": 1,
+  "repos": [
+    {
+      "full_name": "yetone/magpie",
+      "html_url": "https://github.com/yetone/magpie",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "language": "Go",
+      "topics": [
+        "claude-code",
+        "codex",
+        "deepseek",
+        "gemini-cli",
+        "llm",
+        "macos"
+      ],
+      "stargazers_count": 14234,
+      "forks_count": 1008,
+      "archived": false,
+      "updated_at": "2026-10-17T02:25:08Z",
+      "owner": {
+        "login": "yetone",
+        "type": "User"
+      }
+    }
+  ]
 }
