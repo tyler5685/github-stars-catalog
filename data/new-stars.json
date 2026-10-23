@@ -1,26 +1,4 @@
 {
-  "count": 1,
-  "repos": [
-    {
-      "full_name": "huangzheng2016/ios-icon-mcp",
-      "html_url": "https://github.com/huangzheng2016/ios-icon-mcp",
-      "description": "Organize your iPhone home screen from any MCP-compatible AI client",
-      "language": "Python",
-      "topics": [
-        "home-screen",
-        "ios",
-        "iphone",
-        "mcp",
-        "pymobiledevice3"
-      ],
-      "stargazers_count": 20,
-      "forks_count": 2,
-      "archived": false,
-      "updated_at": "2026-10-21T20:51:07Z",
-      "owner": {
-        "login": "huangzheng2016",
-        "type": "User"
-      }
-    }
-  ]
+  "count": 0,
+  "repos": []
 }
