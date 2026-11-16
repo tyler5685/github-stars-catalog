@@ -1,4 +1,35 @@
 {
-  "count": 0,
-  "repos": []
+  "count": 2,
+  "repos": [
+    {
+      "full_name": "Kianuni/Erosion-CN",
+      "html_url": "https://github.com/Kianuni/Erosion-CN",
+      "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "language": "Swift",
+      "topics": [],
+      "stargazers_count": 2145,
+      "forks_count": 434,
+      "archived": false,
+      "updated_at": "2026-11-16T03:48:10Z",
+      "owner": {
+        "login": "Kianuni",
+        "type": "User"
+      }
+    },
+    {
+      "full_name": "antigravity-cn-community/Antigravity-Chinese-Localization",
+      "html_url": "https://github.com/antigravity-cn-community/Antigravity-Chinese-Localization",
+      "description": "antigravity一键汉化",
+      "language": "JavaScript",
+      "topics": [],
+      "stargazers_count": 995,
+      "forks_count": 33,
+      "archived": false,
+      "updated_at": "2026-11-16T03:31:29Z",
+      "owner": {
+        "login": "antigravity-cn-community",
+        "type": "Organization"
+      }
+    }
+  ]
 }
