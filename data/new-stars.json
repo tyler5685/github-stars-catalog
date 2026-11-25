@@ -1,4 +1,31 @@
 {
-  "count": 0,
-  "repos": []
+  "count": 1,
+  "repos": [
+    {
+      "full_name": "HRuiCcc/RuiC-PoseAtlas",
+      "html_url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
+      "description": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
+      "language": "JavaScript",
+      "topics": [
+        "3d-modeling",
+        "ai-art",
+        "art-reference",
+        "gallery",
+        "photography",
+        "pose-reference",
+        "ruic",
+        "static-site",
+        "trilingual",
+        "vanilla-javascript"
+      ],
+      "stargazers_count": 1905,
+      "forks_count": 391,
+      "archived": false,
+      "updated_at": "2026-11-25T06:00:00Z",
+      "owner": {
+        "login": "HRuiCcc",
+        "type": "User"
+      }
+    }
+  ]
 }
